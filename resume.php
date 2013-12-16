@@ -4,16 +4,16 @@
 ?>
   <div id="content" class="inner">
     <h1>Brandon Merjil</h1>
-    51 S Criss Pl</ br>
-    Chandler, AZ 85226</ br>
-    623-505-6313</ br>
-    <a href="mailto:bmerjil@ken-ohki.org"</a>bmerjil@ken-ohki.org</ br>
-    <a href="http://ken-ohki.org"</a>ken-ohki.org</ br>
+    51 S Criss Pl<br />
+    Chandler, AZ 85226<br />
+    623-505-6313<br />
+    <a href="mailto:bmerjil@ken-ohki.org">bmerjil@ken-ohki.org</a><br />
+    <a href="http://ken-ohki.org">ken-ohki.org</a><br />
 
     <h2>Education</h2>
 
-    DeVry University</ br>
-      Bachelor of Science, Computer Information Systems, Web Development and Administration, Phoenix, AZ October 2012</ br>
+    DeVry University<br />
+      Bachelor of Science, Computer Information Systems, Web Development and Administration, Phoenix, AZ October 2012<br />
 
     <h2>Work experience</h2>
 
