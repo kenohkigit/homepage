@@ -10,7 +10,7 @@
       <nav id="main-nav">
         <ul class="main">
           <li><a href="/">Home</a></li>
-          <li><a href="resume.php/">Resume</a></li>
+          <li><a href="resume.php">Resume</a></li>
           <li><a href="http://www.youtube.com/user/KenOhkisVid/" target="_blank" title="The Smoking Jacket Hour">SJH Youtube</a></li>
           <li><a href="http://mc.ken-ohki.org/" target="_blank" title="The Smoking Jacke Hour Server">SJH Server</a>
         </ul>
