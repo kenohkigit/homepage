@@ -12,7 +12,7 @@
 
     <h2>Education</h2>
 
-    DeVry University<br />
+    <p><strong>DeVry University</strong></p><br />
       Bachelor of Science, Computer Information Systems, Web Development and Administration, Phoenix, AZ October 2012<br />
 
     <h2>Work experience</h2>
