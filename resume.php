@@ -12,9 +12,11 @@
 
     <h2>Education</h2>
 
-    <p><strong>DeVry University</strong></p><br />
-      Bachelor of Science, Computer Information Systems, Web Development and Administration, Phoenix, AZ October 2012<br />
-
+    <p><strong>DeVry University</strong></p>
+    <ul>
+      <li>Bachelor of Science, Computer Information Systems, Web Development and Administration, Phoenix, AZ October 2012</li>
+    </ul>
+    
     <h2>Work experience</h2>
 
     <p><strong>Senior Linux System Administrator at Ebocom LLC in Phoenix, AZ - April 2005 to Current</strong></p>
